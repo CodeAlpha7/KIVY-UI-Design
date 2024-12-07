@@ -1,4 +1,65 @@
-These are all the Fonts used in this project. Please find below the readme contents of the internet source where I downloaded them from:
+These are all the Fonts used in this project. I cannot upload these font files to GitHub since it keeps failing, however, for refrence and to run this code directly, please ensure the following font files exist in the Fonts/ folder with the mentioned file extensions:
+- `AGaramondPro-Bold.otf`
+- `AGaramondPro-BoldItalic.otf`
+- `AGaramondPro-Italic.otf`
+- `AGaramondPro-Regular.otf`
+- `APHont-BoldItalic_q15c.ttf`
+- `APHont-Bold_q15c.ttf`
+- `APHont-Italic_q15c.ttf`
+- `APHont-Regular_q15c.ttf`
+- `Anonymous Pro B.ttf`
+- `Anonymous Pro BI.ttf`
+- `Anonymous Pro I.ttf`
+- `Anonymous Pro.ttf`
+- `FreeSerif.otf`
+- `FreeSerif.ttf`
+- `FreeSerifBold.otf`
+- `FreeSerifBold.ttf`
+- `FreeSerifBoldItalic.otf`
+- `FreeSerifBoldItalic.ttf`
+- `FreeSerifItalic.otf`
+- `FreeSerifItalic.ttf`
+- `Helvetica-Bold.ttf`
+- `Helvetica-BoldOblique.ttf`
+- `Helvetica-Oblique.ttf`
+- `Helvetica.ttf`
+- `OpenDyslexic-Bold.otf`
+- `OpenDyslexic-Bold.ttf`
+- `OpenDyslexic-BoldItalic.otf`
+- `OpenDyslexic-BoldItalic.ttf`
+- `OpenDyslexic-Italic.otf`
+- `OpenDyslexic-Italic.ttf`
+- `OpenDyslexic-Regular.otf`
+- `OpenDyslexic-Regular.ttf`
+- `OpenDyslexicAlta-Bold.otf`
+- `OpenDyslexicAlta-Bold.ttf`
+- `OpenDyslexicAlta-BoldItalic.otf`
+- `OpenDyslexicAlta-BoldItalic.ttf`
+- `OpenDyslexicAlta-Italic.otf`
+- `OpenDyslexicAlta-Italic.ttf`
+- `OpenDyslexicAlta-Regular.otf`
+- `OpenDyslexicAlta-Regular.ttf`
+- `OpenDyslexicMono-Regular.otf`
+- `OpenDyslexicMono-Regular.ttf`
+- `PTC55F.ttf`
+- `PTC75F.ttf`
+- `PTN57F.ttf`
+- `PTN77F.ttf`
+- `PTS55F.ttf`
+- `PTS56F.ttf`
+- `PTS75F.ttf`
+- `PTS76F.ttf`
+- `Times New Roman Bold Italic.ttf`
+- `Times New Roman Bold.ttf`
+- `Times New Roman Italic.ttf`
+- `Times New Roman.ttf`
+- `helvetica-compressed.otf`
+- `helvetica-light.ttf`
+- `helvetica-rounded-bold.otf`
+- `tahoma.ttf`
+
+
+Please find below the readme contents of the internet source where I downloaded them from:
 
 README
 ======
