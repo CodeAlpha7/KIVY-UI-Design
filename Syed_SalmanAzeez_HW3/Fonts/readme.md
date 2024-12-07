@@ -1,4 +1,4 @@
-These are all the Fonts used in this project. I cannot upload these font files to GitHub since it keeps failing, however, for refrence and to run this code directly, please ensure the following font files exist in the Fonts/ folder with the mentioned file extensions:
+These are all the Fonts used in this project. I cannot upload these font files to GitHub since it keeps failing, however, for reference and to run this code directly, please ensure the following font files exist in the Fonts/ folder with the mentioned file extensions:
 - `AGaramondPro-Bold.otf`
 - `AGaramondPro-BoldItalic.otf`
 - `AGaramondPro-Italic.otf`
